@@ -3,3 +3,4 @@ You have to write some html basic codes.
 First make heading of the website using <h1> element, use paragraph, anchor, image tags.
 Make a index page for navigation throughout the page.
 Finally add some list elements.
+And you some descriptive commit messages.
