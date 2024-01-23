@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-heading {
+    font-family: cursive, serif;
+    background-color: rgb(186, 247, 95);
+}
+
+.sub-heading {
+    background-color: rgb(194, 248, 113);
+}
