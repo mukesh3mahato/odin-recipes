@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 30px;
+}
+
+.container h1 {
+    font-family: 'Dancing Script', cursive, sans-serif;
+    font-size: 40px;
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+.container img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 10px 8px rgb(151, 150, 150);
+}
