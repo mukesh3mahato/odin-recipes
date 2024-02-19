@@ -27,3 +27,31 @@ body {
     border-radius: 8px;
     box-shadow: 10px 10px rgb(151, 150, 150);
 }
+
+.wrapper p {
+    margin: 0;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto; 
+}
+
+h2 {
+    color: #ea5122;
+    margin: 12px 0 0 0;
+    padding: 0;
+}
+
+a {
+    color: #f5724a;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #ea5122;
+    color: #fff;
+    margin-top: 15px;
+    padding: 15px;
+    text-align: center;
+}
